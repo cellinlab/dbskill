@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "dontbesilent 商业诊断工具箱 — 将累计推文中经过筛选的内容整理为 4176 个知识原子和 26 个 Claude Code skill",
-    "version": "2.17.2"
+    "version": "2.17.3"
   },
   "plugins": [
     {
